@@ -5,7 +5,7 @@ import NavBar from './components/NavBar';
 function App() {
   return (
     <div className="App">
-      <h1>The Nautilus Project</h1>
+      <h1>The Nautilus Morning Assigment</h1>
       <NavBar />
     </div>
   );

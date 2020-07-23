@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.big-wrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.right-side{
+  font-family: 'Source Sans Pro', sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.nav-buttons{
+  height: 55px;
+  width: 75px;
+}
+
+.sub-box{
+  background-color: black;
+  color: azure;
+  height: 55px;
+  width: 100px;
+  justify-content: center;
+  align-content: center;
+}
+
+.logo{
+  width: 375px;
+  height:  55px;
+}
