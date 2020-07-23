@@ -37,6 +37,13 @@
   }
 }
 
+.matches{
+  height: 50vh;
+  min-width: 90%;
+}
+
+
+
 .big-wrapper{
   display: flex;
   flex-direction: row;
