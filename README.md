@@ -6,7 +6,7 @@
 
 ### `npm start`
 
-Runs the app in the  mode.<br />
+Runs the app in the  .<br />
 Open [http://localhost:3000](http://localhost:3000).
 
 
